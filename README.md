@@ -1,6 +1,6 @@
-# nju-connect
+# NJU Connect
 
-南大 aTrust VPN 免安装命令行客户端（基于开源项目 [ZJU-Connect](https://github.com/Mythologyli/zju-connect)）。
+NJU aTrust VPN 第三方客户端（基于项目 [ZJU-Connect](https://github.com/Mythologyli/zju-connect) 封装）。
 
 ## 用法
 

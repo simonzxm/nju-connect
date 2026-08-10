@@ -1,0 +1,16 @@
+# 复制为 config.toml，填入学号/密码后运行 ./nju-connect.sh
+
+username = "学号"
+password = "统一身份认证密码"
+
+# 代理端口
+socks_bind = ":1080"
+http_bind = ":1081"
+
+protocol = "atrust"
+server_address = "ztna.nju.edu.cn"
+server_port = 443
+disable_zju_config = true
+login_domain = "openldap13924"
+auth_type = "auth/psw"
+client_data_file = "client_data.json"

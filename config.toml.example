@@ -8,7 +8,7 @@ socks_bind = ":1080"
 http_bind = ":1081"
 
 protocol = "atrust"
-server_address = "ztna.nju.edu.cn"
+server_address = "vpn.nju.edu.cn"
 server_port = 443
 disable_zju_config = true
 login_domain = "openldap13924"
